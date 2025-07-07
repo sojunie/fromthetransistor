@@ -4,3 +4,6 @@
 [submodule "compiler"]
 	path = compiler
 	url = git@github.com:sojunie/ftt-c-compiler.git
+[submodule "armcpu"]
+	path = armcpu
+	url = git@github.com:sojunie/ftt-arm-cpu.git
